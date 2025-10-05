@@ -78,6 +78,7 @@ Designing business dashboards with usability in mind
 
 Communicating insights effectively through visualization
 
+
 # Future Enhancements
 
 Automate data refresh using Power BI Service
@@ -85,3 +86,5 @@ Automate data refresh using Power BI Service
 Integrate real-time sales data through APIs
 
 Add predictive insights using Python within Power BI
+
+<img width="1089" height="612" alt="linkedin_post3_3" src="https://github.com/user-attachments/assets/af14ae77-d214-4b7b-87b9-48f3e9413d2a" />
