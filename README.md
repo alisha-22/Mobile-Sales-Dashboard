@@ -87,4 +87,11 @@ Integrate real-time sales data through APIs
 
 Add predictive insights using Python within Power BI
 
-<img width="1089" height="612" alt="linkedin_post3_3" src="https://github.com/user-attachments/assets/af14ae77-d214-4b7b-87b9-48f3e9413d2a" />
+<img width="1091" height="611" alt="linkedin_post3_1" src="https://github.com/user-attachments/assets/c7cd75b1-4238-46b9-9931-07ed84c43870" />
+
+<img width="1093" height="613" alt="linkedin_post3_2" src="https://github.com/user-attachments/assets/d6779beb-2497-48b5-a18b-50b8b68b7a61" />
+
+<img width="1089" height="612" alt="linkedin_post3_3" src="https://github.com/user-attachments/assets/433f7370-5543-4bbe-9c4f-7f3771ac4509" />
+
+
+
